@@ -1,0 +1,71 @@
+hr{
+margin: auto;
+border-bottom: None;
+padding: 10% 10%;
+border-style:dotted;
+color: #0F4C81;
+size:50%;
+align-items: center;
+}
+
+.MyBody
+{
+
+background-color: #C2F0FC;
+line-height: 2;
+text-align: center;
+margin: 100 auto;
+padding: 50px;
+
+}
+
+.MenuIcon
+{
+background-color: #C2F0FC;
+font-size: 150%;
+font-style: italic;
+font-weight: bold;
+color: #0F4C81;
+font-family: 'Indie Flower', cursive;
+
+
+}
+.NormalText
+{
+  background-color: #C2F0FC;
+  font-size: 150%;
+  font-style: italic;
+  font-weight: bold;
+  color: #0F4C81;
+ font-family: 'Indie Flower', cursive;
+ margin:  auto;
+ text-align: center;
+
+}
+.FooterCls
+{
+
+position: fixed;
+background-color: #0F4C81;
+font-size: 100%;
+font-weight: bold;
+font-family: 'Indie Flower', cursive;
+color: #C2F0FC;
+margin: auto;
+left: 0;
+bottom: 0;
+width: 100%;
+text-align: center;
+
+}
+
+.aFooter{
+margin:  auto;
+
+color: white;
+align-items: center;
+font-family: 'Indie Flower', cursive;
+text-align: center;
+width: auto;
+
+}
