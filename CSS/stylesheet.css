@@ -61,11 +61,35 @@ text-align: center;
 
 .aFooter{
 margin:  auto;
-
 color: white;
 align-items: center;
 font-family: 'Indie Flower', cursive;
 text-align: center;
 width: auto;
 
+}
+
+.MyPan
+{
+	margin: 0 10%;
+	padding:10% 0%;
+	border-radius: 10%;
+	max-width: 150%;
+   /*height: 100%;*/
+	
+	
+}
+.MyCon
+{
+	margin: 0%;
+	padding:0% ;
+	
+}
+.MySlid
+{
+	
+	color:#0F4C81;
+	font-size:20;
+	font-weight: bold;
+	
 }
